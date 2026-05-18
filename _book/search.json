@@ -1,0 +1,152 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Besedilna fonetika slovenskega knjižnega jezika",
+    "section": "",
+    "text": "Predgovor\nGradiva za vaje pri predmetu SL1 Besedilna fonetika slovenskega knjižnega jezika na Oddelku za slovenistiko Filozofske fakultete Univerze v Ljubljani. Nastalo v študijskem letu 2025/2026.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Predgovor"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. „Literate Programming“. Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Literatura",
+    "section": "",
+    "text": "Fant, Gunnar. 1970. Acoustic Theory of Speech Production.\nMouton.\n\n\nJurgec, Peter. 2004. “Natančnost Odčitavanja Formantov Pri\nDigitalnem Spektrografiranju Na Podlagi\nLPC-Analize.” Edited by Tomaž Erjavec and Jerneja\nŽganec Gros. Informacijska Družba. Institut \"Jožef Stefan\".\n\n\nJurgec, Peter. 2005. “Formant Frequencies of Standard Slovene\nVowels.” Govor 22 (2): 127–44. https://hrcak.srce.hr/clanak/256498.\n\n\nJurgec, Peter. 2006. “Formantne Frekvence Samoglasnikov v Tonemski\nin Netonemski Standardni Slovenščini = Formant Frequencies of Vowels in\nTonal and Non-Tonal Standard Slovenian.” Slovensko\nJezikoslovje Danes 54 (4): 103–14,. http://www.dlib.si/details/URN:NBN:SI:DOC-7EOBRGZ2.\n\n\nKent, R. D., and C. Read. 2002. The Acoustic Analysis of\nSpeech. Singular/Thomson Learning.\n\n\nLadefoged, Peter, and Ian Maddieson. 1996. The Sounds of the World’s\nLanguages. Blackwell.\n\n\nLehiste, Ilse. 1961. “The Phonemes of Slovene.”\nInternational Journal of Slavic Linguistics and Poetics 4:\n48–66.\n\n\nLiker, Marko. 2024. Koartikulacija: Što Sve Ne Znamo o Govoru?\nIbis grafika.\n\n\nPalková, Zdena. 1997. Fonetika a Fonologie Češtiny: S Obecným Úvodem\nDo Problematiky Oboru. Univerzita Karlova.\n\n\nPetek, Bojan, Rastislav Šuštaršič, and Smiljana Komar. 1996. “An\nAcoustic Analysis of Contemporary Vowels of the Standard Slovenian\nLanguage.” (Philadelphia, PA,\nUSA.Wilmington (DE): University of Delaware),\n133–36. http://www.asel.udel.edu/icslp/cdrom/vol1/820/a820.pdf.\n\n\nPétursson, Magnús, and Joachim Neppert. 2002. Elementarbuch Der\nPhonetik. Helmut Buske Verlag.\n\n\nPompino-Marschall, Bernd. 2009. Einführung in Die Phonetik. 3.,\ndurchgesehene Aufl. De Gruyter Studienbuch. Walter de Gruyter.\n\n\nTivadar, Hotimir. 2004. “Fonetično-Fonološke Lastnosti\nSamoglasnikov v Sodobnem Knjižnem Jeziku.” Slavistična\nRevija 52 (1): 31–47. https://www.dlib.si/details/URN:NBN:SI:doc-2NJQVSWD.\n\n\nTivadar, Hotimir. 2010. “Normativni Vidik Slovenščine v 3.\nTisočletju – Knjižna Slovenščina Med Realnostjo in Idealnostjo.”\nSlavistična Revija 58 (1): 105–16. http://www.dlib.si/details/URN:NBN:SI:DOC-BHCJ5UO8.\n\n\nTivadar, Hotimir. 2019. “Opis Samoglasnikov Slovenskega Knjižnega\nJezika z Vidika Spola Govorečega.” Slavistična Revija 67\n(2): 233–42.\n\n\nToporišič, Jože. 1975. “Formanti Slovenskega Knjižnega\nJezika.” Slavistična Revija 23 (2): 153–96.\n\n\nToporišič, Jože. 1992. Enciklopedija Slovenskega Jezika.\nObzorja.\n\n\nToporišič, Jože. 2000. Slovenska Slovnica. Obzorja.\n\n\nWatt, Dominic. 2013. “Research Methods in Speech\nAcoustics.” In The Bloomsbury Companion to Phonetics,\nedited by Mark J. Jones and Rachael-Anne Knight. Bloomsbury.\n\n\nWeckwerth, Jarosław. 2022. “Vowels.” In The Cambridge\nHandbook of Phonetics, edited by Rachael-Anne Knight and Jane\nSetter. Cambridge Handbooks in Language and Linguistics. Cambridge\nUniversity Press.\n\n\nWrench, Alan, and Jane Beck. 2022. “Physiological\nFoundations.” In The Cambridge Handbook of Phonetics,\nedited by Rachael-Anne Knight and Jane Setter. Cambridge Handbooks in\nLanguage and Linguistics. Cambridge University Press.",
+    "crumbs": [
+      "Literatura"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html",
+    "href": "samoglasniki.html",
+    "title": "1  Samoglasniki",
+    "section": "",
+    "text": "1.1 Akustična teorija samoglasnikov\nSamoglasniki so skupina glasov, pri katerih se glasilke tresejo, zato so vsi zveneči. Pri njihovi tvorbi je govorna cev odprta. Med seboj se razlikujejo predvsem glede na lego jezika in na obliko ustnic.\nTukaj predstavljena teorija linear source-filter theory of speech production je bila prvič predstavljena v delu Gunnarja Fanta (1970) Acoustic theory of speech production (teorija je predstavlja v Stevens (2000)). Na kratko bomo predstavili teorijo glede izgovora samoglasnikov.\nSamoglasniki so glasovi, ki nastanejo z vibriranjem glasilk (zvenečnost je izvor energije) in imajo relativno odprto govorno cev. Celotna govorna cev deluje kot resonančni/odzvočni prostor, tako da celotna govorna cev od glasilk navzgor deluje kot filter. Omenimo še, da pri nosnih glasovih pomembno vlogo igra velofaringealna zapora, ki se pri nosnih glasovih odpre, da se razširi rezonančni prostor še v nosno votlino. Pri nenosnih glasovih je velofaringealna zapora zaprta (Kent in Read 2002, 17–18), gl. sliko 1.1.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#akustična-teorija-samoglasnikov",
+    "href": "samoglasniki.html#akustična-teorija-samoglasnikov",
+    "title": "1  Samoglasniki",
+    "section": "",
+    "text": "Slika 1.1: Prikaz izgovora nenosnih samoglasnikov (Nasal cav. = nosna votlina, oral cav. = ustna votlina, pharynx = žrelo/farinks, larynx = grlo, V = velofaringealna zapora) (Kent in Read 2002, 18)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#osnovni-model",
+    "href": "samoglasniki.html#osnovni-model",
+    "title": "1  Samoglasniki",
+    "section": "1.2 Osnovni model",
+    "text": "1.2 Osnovni model\nModel, ki ponazarja izgovor samoglasnikov, si lahko predstavljamo kot ravno cev, ki je na eni strani zaprta z membrano, ki predstavlja glasilki. Membrana ima manjšo odprtino. Drugi del cevi je odprt. Membrana je vibrator, ki je vir akustične energije. Ta potuje vzdolž cevi. Cev je rezonator (odzvočni prostor). Takšna cev ima neskončno število resonanc, ki so na frekvencah, definiranih z naslednjih razmerjem: \\[\nF_n = \\frac{(2n-1) \\cdot c}{4l}\n\\tag{1.1}\\]\nPri čemer je c hitrost zvoka, tj. okrog \\(350 \\frac{m}{s}\\) , n je naravno število, l pa dolžina cevi.\nPo formuli 1.1 lahko izračunamo osnovne frekvence nastalega glasu (samoglasnika). Predpostavimo, da je govorna cev dolga 17 cm:\n\\[\nF_1 = \\frac{(2 \\cdot 1 - 1) \\cdot 350}{4 \\cdot 0.175} = 500 \\, \\text{Hz}\n\\tag{1.2}\\]\n\\[\nF_2 = \\frac{(2 \\cdot 2 - 1) \\cdot 350}{4 \\cdot 0.175} = 1500 \\, \\text{Hz}\n\\tag{1.3}\\]\n\\[\nF_3 = \\frac{(2 \\cdot 3 - 1) \\cdot 350}{4 \\cdot 0.175} = 2500 \\, \\text{Hz}\n\\tag{1.4}\\]\n\\[\nF_4 = \\frac{(2 \\cdot 4 - 1) \\cdot 350}{4 \\cdot 0.175} = 3500 \\, \\text{Hz}\n\\tag{1.5}\\]\nOpazimo, da so si višje resonančne frekvence različne za 1000 Hz. Pri tem moramo vedeti, da je govorna cev pri moškem dolga 17,5 cm. Govorna cev je razdalja od ustnic do glasilk. Govorna cev ima približno enako resonanco/odzvočnost kot ravna cev enake dolžine in premera. Če je cev daljša, so resonančne frekvence nižje, če pa je krajša, so ša višje (otroci in ženske imajo krajšo govorno cev, zato so imajo višji register, moški pa praviloma daljšo govorno cev in tako nižji register). Glavna dejavnika, ki določata dolžino govorne cevi in s tem višino resonančnih frekvenc, sta starost in spol (Kent in Read 2002, pp. 18–20).\n\n\n\n\nFant, Gunnar. 1970. Acoustic theory of speech production. Mouton.\n\n\nKent, R. D., in C. Read. 2002. The Acoustic Analysis of Speech. Singular/Thomson Learning.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#sec-osnovni-model",
+    "href": "samoglasniki.html#sec-osnovni-model",
+    "title": "1  Samoglasniki",
+    "section": "1.2 Osnovni model",
+    "text": "1.2 Osnovni model\nModel, ki ponazarja izgovor samoglasnikov, si lahko predstavljamo kot ravno cev, ki je na eni strani zaprta z membrano, ki predstavlja glasilki. Membrana ima manjšo odprtino. Drugi del cevi je odprt. Membrana je vibrator, ki je vir akustične energije. Ta potuje vzdolž cevi. Cev je rezonator (odzvočni prostor). Takšna cev ima neskončno število resonanc, ki so na frekvencah, definiranih z naslednjih razmerjem:\n\\[F_n = \\frac{(2n-1) \\cdot c}{4l} \\tag{1.1}\\]\nPri čemer je c hitrost zvoka, tj. okrog \\(350 \\frac{m}{s}\\) , n je naravno število, l pa dolžina cevi.\nPo formuli 1.1 lahko izračunamo osnovne frekvence nastalega glasu (samoglasnika). Predpostavimo, da je govorna cev dolga 17 cm:\n\\[F_1 = \\frac{(2 \\cdot 1 - 1) \\cdot 350}{4 \\cdot 0.175} = 500 \\, \\text{Hz} \\tag{1.2}\\]\n\\[F_2 = \\frac{(2 \\cdot 2 - 1) \\cdot 350}{4 \\cdot 0.175} = 1500 \\, \\text{Hz} \\tag{1.3}\\]\n\\[F_3 = \\frac{(2 \\cdot 3 - 1) \\cdot 350}{4 \\cdot 0.175} = 2500 \\, \\text{Hz} \\tag{1.4}\\]\n\\[F_4 = \\frac{(2 \\cdot 4 - 1) \\cdot 350}{4 \\cdot 0.175} = 3500 \\, \\text{Hz} \\tag{1.5}\\]\nOpazimo, da so si višje resonančne frekvence različne za 1000 Hz. Pri tem moramo vedeti, da je govorna cev pri moškem dolga 17,5 cm. Govorna cev je razdalja od ustnic do glasilk. Govorna cev ima približno enako resonanco/odzvočnost kot ravna cev enake dolžine in premera. Če je cev daljša, so resonančne frekvence nižje, če pa je krajša, so ša višje (otroci in ženske imajo krajšo govorno cev, zato so imajo višji register, moški pa praviloma daljšo govorno cev in tako nižji register). Glavna dejavnika, ki določata dolžino govorne cevi in s tem višino resonančnih frekvenc, sta starost in spol (Kent in Read 2002, 18–20).\nModel predstavlja samo en samoglasnik, tj. sredinski centralni samoglasnik [ə].",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#razširjeni-model",
+    "href": "samoglasniki.html#razširjeni-model",
+    "title": "1  Samoglasniki",
+    "section": "1.3 Razširjeni model",
+    "text": "1.3 Razširjeni model\nModel, predstavljen v poglavju 1.2 moramo zato, da lahko prikažemo frekvence drugih samoglasnikov, dopolniti. Cevi moramo spremeniti obliko, jo na posameznem delu razširiti oz. zožiti, da ponazorimo položaj jezika, ki zapira del govorne poti (Kent in Read 2002, 20–22)\nV omenjeni teoriji (angl. linear source-filter theory of speech production) gre za to, da se zračno valovanje (izraženo s frekvencami in glasnostjo) skozi govorno cev, ki deluje kot filter oz. resonančni prostor, spremeni oz. preoblikuje, da nato dobimo frekvence posameznega samoglasnika. Glasilke namreč vibriranjo z enako frekvenco, zato je treba spremeniti filter (obliko govorne cevi), da lahko izgovarjamo različne zveneče glasove, v našem primeru samoglasnike. To je prikazano na sliki 3 na str. 3 (Kent in Read 2002, 22). Izvor energije so vibracije glasilk. Energijo lahko prikažemo kot linearni spektrum. Prva vrednost je vrednost osnovne frekvence (\\(f_0\\)), naslednje pa so njen večkratnik. Dolžina črte prikazuje intenziteto/ energijo oz. glasnost (enota so decibeli (dB)). Če je osnovna frekvenca govorca npr. 120 Hz, bodo naslednje frekvence 240 Hz, 360 Hz, 480 Hz itd. Glasnost nima velikega vpliva na končne frekvence posameznega glasu, saj govor razumljiv, četudi govorimo nekoliko tišje oz. glasneje (Kent in Read 2002, 23).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#laringealni-spektrum-in-radiacijska-značilnost",
+    "href": "samoglasniki.html#laringealni-spektrum-in-radiacijska-značilnost",
+    "title": "1  Samoglasniki",
+    "section": "1.4 Laringealni spektrum in radiacijska značilnost",
+    "text": "1.4 Laringealni spektrum in radiacijska značilnost\nLaringealni spektrum je spektrum, ki prikazuje harmonične frekvence glasilk. Lahko je v obliki stolpcev ali pa krivulje. Večina energije je zbrane v nižjem frekvenčnem območju. Praviloma količina energije na posamezno harmonično frekvenco pade 12 dB na oktavo oz. 12 dB za vsako podvojitev višine frekvence (gl. sliko 4 na str. 4) (Kent in Read 2002, 24).\nOmenimo še radiacijsko značilnost (angl. radiation characteristic). Pri izhodu akustičnega signala (zvoka) se srečata dve atmosferi, atmosfera ustne votline in zunanja atmosfera. Zaradi odboja zvoka od ustne votline in širjenja le tega v vse smeri pride do filtra, ki poveča intenziteto nižjih frekvenc in zniža intenziteto višjih frekvenc (angl. high-pass filter). Razlika v jakosti je ca. 6 dB.\n\n\n\n\nFant, Gunnar. 1970. Acoustic theory of speech production. Mouton.\n\n\nKent, R. D., in C. Read. 2002. The Acoustic Analysis of Speech. Singular/Thomson Learning.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#sec-razširjeni-model",
+    "href": "samoglasniki.html#sec-razširjeni-model",
+    "title": "1  Samoglasniki",
+    "section": "1.3 Razširjeni model",
+    "text": "1.3 Razširjeni model\nModel, predstavljen v poglavju 1.2 moramo zato, da lahko prikažemo frekvence drugih samoglasnikov, dopolniti. Cevi moramo spremeniti obliko, jo na posameznem delu razširiti oz. zožiti, da ponazorimo položaj jezika, ki zapira del govorne poti (Kent in Read 2002, 20–22)\nV omenjeni teoriji (angl. linear source-filter theory of speech production) gre za to, da se zračno valovanje (izraženo s frekvencami in glasnostjo) skozi govorno cev, ki deluje kot filter oz. resonančni prostor, spremeni oz. preoblikuje, da nato dobimo frekvence posameznega samoglasnika. Glasilke namreč vibriranjo z enako frekvenco, zato je treba spremeniti filter (obliko govorne cevi), da lahko izgovarjamo različne zveneče glasove, v našem primeru samoglasnike. To je prikazano na sliki 1.3.\nIzvor energije so vibracije glasilk. Energijo lahko prikažemo kot linearni spektrum. Prva vrednost je vrednost osnovne frekvence (f0), naslednje pa so njen večkratnik. Dolžina črte prikazuje intenziteto/ energijo oz. glasnost (enota so decibeli (dB)). Če je osnovna frekvenca govorca npr. 120 Hz, bodo naslednje frekvence 240 Hz, 360 Hz, 480 Hz itd. Glasnost nima velikega vpliva na končne frekvence posameznega glasu, saj govor razumljiv, četudi govorimo nekoliko tišje oz. glasneje (Kent in Read 2002, 23).\n\n\n\n\n\n\nSlika 1.2: Prikaz izgovora nenosnih samoglasnikov (AF = idealiziran prikaz govorne cevi, S = spekter, SG = spektrogram) (Kent in Read 2002, 21)\n\n\n\n\n\n\n\n\n\nSlika 1.3: Shematiziran prikaz delovanja filtra (govorne cevi) (U(s) = spektrum glasilk / grleni spektrum, T(s) = filter govorne cevi , R(s) = radiacijske značilnosti, P(s) = izhodni spektrum) (Kent in Read 2002, 22)\n\n\n\n\n\n\n\n\n\nSlika 1.4: Prikaz laringealnega spektruma (vir: https://matecmaticaacustica.weebly.com/filters-and-frequency-response.html, 2. 2. 2026.)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#sec-Laringealni-spektrum",
+    "href": "samoglasniki.html#sec-Laringealni-spektrum",
+    "title": "1  Samoglasniki",
+    "section": "1.4 Laringealni spektrum in radiacijska značilnost",
+    "text": "1.4 Laringealni spektrum in radiacijska značilnost\nLaringealni spektrum je spektrum, ki prikazuje harmonične frekvence glasilk. Lahko je v obliki stolpcev ali pa krivulje. Večina energije je zbrane v nižjem frekvenčnem območju. Praviloma količina energije na posamezno harmonično frekvenco pade 12 dB na oktavo oz. 12 dB za vsako podvojitev višine frekvence (gl. sliko 1.4) (Kent in Read 2002, 24).\nOmenimo še radiacijsko značilnost (angl. radiation characteristic). Pri izhodu akustičnega signala (zvoka) se srečata dve atmosferi, atmosfera ustne votline in zunanja atmosfera. Zaradi odboja zvoka od ustne votline in širjenja le tega v vse smeri pride do filtra, ki poveča intenziteto nižjih frekvenc in zniža intenziteto višjih frekvenc (angl. high-pass filter). Razlika v jakosti je ca. 6 dB.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#formanti",
+    "href": "samoglasniki.html#formanti",
+    "title": "1  Samoglasniki",
+    "section": "1.5 Formanti",
+    "text": "1.5 Formanti\nPisali smo o resonančnih frekvencah. V akustiki se zanje sinonimno uporablja termin formant. Harmonične frekvence, ki jih lahko opazujemo na laringealnem spektrumu, se zaradi filtra (govorne cevi) spremenijo. Vrhovi frekvenc, ki se izoblikujejo v filtru so vidni tudi na izhodnem zvočnem valovanju, ki ga zajamemo z mikrofonom. Na izhodnem spektrogramu vidimo (počrnjena) močnejša frekvenčna območja, to so formanti (gl. Kent in Read 2002, 24) oz. povedano drugače: formanti predstavljajo močnejša frekvenčna območja pri naravnem govoru, prikazujemo jih s spektrogramom, na katerem so vidni kot črni snopi (Pompino-Marschall 2009, 108). Gl. sliko 1.5, kjer je prikazana razporeditev energije po frekvenčnem prostoru od 0 Hz do 8 kHz.\nVrednost prvega formanta (F1) je pri visokih samoglasnikih (npr. /i/, /u/) nizka, pri nizkih (npr. /a/) pa visoka. Prvi formant nam posreduje podatek o položaju jezika, višja kot je lega jezika, nižja je vrednost F1. Drugi formant (F2) pa predstavlja položaj jezika glede na razmerje spredaj – zadaj. Pri sprednjih samoglasnikih se jezična ploskev približuje trdemu nebu, pri zadnjih samoglasnikih pa mehkemu nebu (samoglasnike lahko razdelimo na palatalne in velarne). F2 je najnižji pri zadnjih samoglasnikih (npr. /u/, /o/), najvišji pa pri sprednjih (npr. /i/, /e/) (prav tam: 125). Skladno z jezično ploskvijo se giba tudi spodnja čeljust. Osnovni ton (F0)1 predstavlja osnovno frekvenco melodije govora (angl. pitch), imajo ga le glasovi s ponavljajočim nihanjem (Ladefoged in Maddieson 1996, 33). Višji formanti (npr. F5, F6 idr.) za določanje fonetičnih lastnosti glasov niso ključni, saj odražajo predvsem individualno zgradbo govoril posameznika (Palková 1997, 106). O težavah pri odčitavanju formantov pri digitalnem spektrografiranju piše Jurgec (2004).\n\n\n\n\n\n\nSlika 1.5: Prikaz razporeditve energije po frekvenčnih območjih pri [ə]\n\n\n\nPrvi formant ima najnižjo frekvenco, zato se na spektrogramu nahaja spodaj, sledi mu drugi formant itd. Najbolj razlikovalna sta F1 in F2.\nV Praatu je osnovna frekvenca oz. F0 prikazana kot intonacija (pitch; modra črta), ostali so prikazani z rdečimi pikami. Vključimo jih z ukazom View & Edit &gt; Formant &gt; Show formants. Praat samodejno prikaže prvih pet formantov (F1–F5), lahko pa jih prikažemo tudi več z ukazom View & Edit &gt; Formant &gt; Formant settings. V oknu Formant settings v polju Number of formant spremenimo število.\nVišji formanti so manj stabilni, njihova stabilnost je odvisna tudi od kvalitete posnetka. Višje formante redko merimo in vključujemo v fonetično-fonološke raziskave.\nV razdelku 2 bo predstavljeno merjenje formantov samoglasnikov v Praatu. Merjenje se lahko opravi ročno s pomočjo opazovanja oscilograma in spektrograma ter s percepcijo, lahko pa se poslužimo skripta, a moramo avtomatske meritve preveriti, saj lahko pride do napak.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#footnotes",
+    "href": "samoglasniki.html#footnotes",
+    "title": "1  Samoglasniki",
+    "section": "",
+    "text": "Osnovni ton je mdr. tudi indikator za zvenečnost.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  },
+  {
+    "objectID": "samoglasniki.html#ročno-merjenje",
+    "href": "samoglasniki.html#ročno-merjenje",
+    "title": "1  Samoglasniki",
+    "section": "2.1 Ročno merjenje",
+    "text": "2.1 Ročno merjenje\nFormante lahko merimo v določeni točki ali pa na intervali, tedaj izmerimo povprečje. Najbolje je, da formante merimo na najstabilnejšem delu samoglasnika –– tam, kjer je zvočno nihanje najenakomernejše (oscilogram) ter kjer so frekvence najbolj stabilne (spektrogram).\nFormant samoglasnika v točki izmerimo na naslednji način: 1. Na posnetku izberemo točko v stabilnem delu samoglasnika. 2. (a) Na tipkovnici pritisnemo tipko F1 (za F1), F2 (za F2), F3 (za F3) in F4 (za F4). (b) Ali pa z ukazom View & Edit &gt; Formant &gt; Get first formant / Get second formant… 3. V pojavnem oknu se pokaže vrednost v Hz, ki so skopiramo na željeno mesto (npr. v wordov dokument).\nFormant samoglasnika na intervalu, tj. njegovo povprečje, izmerimo na enak način kot v točki, le na posnetku ne označimo točke, temveč interval.\nPodatke o posameznih formantih zapisujemo običajno v tabelo. Pri svojih meritvah opredelimo, kako smo formante merili, tj. točkovno ali s pomočjo intervalov.\n\n\n\n\n\n\n\n\n\n\n\n\nFonem\nF0 (Hz)\nF1 (Hz)\nF2 (Hz)\nF3 (Hz)\nF4 (Hz)\nDolžina (ms)\n\n\n\n\n[ə]\n118\n418\n1302\n2531\n3853\n100\n\n\n[ə]\n103\n463\n1273\n2604\n3763\n55\n\n\n[ə]\n132\n413\n1345\n2477\n3718\n90\n\n\n[ə]\n107\n426\n1240\n2351\n3526\n65\n\n\n[ə]\n117\n376\n1483\n2427\n3574\n75\n\n\n[ə]\n138\n379\n1396\n2492\n3565\n34\n\n\n[ə]\n137\n360\n1558\n2453\n3677\n32\n\n\n[ə]\n139\n398\n1246\n2377\n3526\n77\n\n\n[ə]\n141\n395\n1215\n2504\n3622\n56\n\n\n[ə]\n128\n354\n1402\n2485\n3526\n59\n\n\n[ə]\n127\n394\n1215\n2414\n3483\n31\n\n\n[ə]\n137\n379\n1474\n2295\n3200\n46\n\n\n[ə]\n144\n353\n1544\n2465\n3574\n25\n\n\n[ə]\n133\n390\n1545\n2466\n3802\n45\n\n\n[ə]\n138\n454\n1253\n2535\n3780\n108\n\n\nŠtevilo meritev\n15\n15\n15\n15\n15\n15\n\n\nPovprečje\n129,3\n396,8\n1366,1\n2458,4\n3612,6\n59,9\n\n\nStandardni odklon\n12,6\n33,2\n128,2\n77,7\n163,5\n25,8\n\n\n\n\n\n\n\nFant, Gunnar. 1970. Acoustic theory of speech production. Mouton.\n\n\nJurgec, Peter. 2004. „Natančnost odčitavanja formantov pri digitalnem spektrografiranju na podlagi LPC-analize“. Uredil Tomaž Erjavec in Jerneja Žganec Gros. Informacijska družba. Institut \"Jožef Stefan\".\n\n\nJurgec, Peter. 2005. „Formant frequencies of standard Slovene vowels“. Govor 22 (2): 127–44. https://hrcak.srce.hr/clanak/256498.\n\n\nJurgec, Peter. 2006. „Formantne frekvence samoglasnikov v tonemski in netonemski standardni slovenščini = Formant frequencies of vowels in tonal and non-tonal standard Slovenian“. Slovensko jezikoslovje danes 54 (4): 103–14,. http://www.dlib.si/details/URN:NBN:SI:DOC-7EOBRGZ2.\n\n\nKent, R. D., in C. Read. 2002. The Acoustic Analysis of Speech. Singular/Thomson Learning.\n\n\nLadefoged, Peter, in Ian Maddieson. 1996. The Sounds of the World’s Languages. Blackwell.\n\n\nLehiste, Ilse. 1961. „The Phonemes of Slovene“. International Journal of Slavic Linguistics and Poetics 4: 48–66.\n\n\nLiker, Marko. 2024. Koartikulacija: Što sve ne znamo o govoru? Ibis grafika.\n\n\nPalková, Zdena. 1997. Fonetika a fonologie češtiny: s obecným úvodem do problematiky oboru. Univerzita Karlova.\n\n\nPetek, Bojan, Rastislav Šuštaršič, in Smiljana Komar. 1996. „An acoustic analysis of contemporary vowels of the standard Slovenian language“. (Philadelphia, PA, USA.Wilmington (DE): University of Delaware), 133–36. http://www.asel.udel.edu/icslp/cdrom/vol1/820/a820.pdf.\n\n\nPétursson, Magnús, in Joachim Neppert. 2002. Elementarbuch der Phonetik. Helmut Buske Verlag.\n\n\nPompino-Marschall, Bernd. 2009. Einführung in die Phonetik. 3., durchgesehene Aufl. De Gruyter Studienbuch. Walter de Gruyter.\n\n\nTivadar, Hotimir. 2004. „Fonetično-fonološke lastnosti samoglasnikov v sodobnem knjižnem jeziku“. Slavistična revija 52 (1): 31–47. https://www.dlib.si/details/URN:NBN:SI:doc-2NJQVSWD.\n\n\nTivadar, Hotimir. 2010. „Normativni vidik slovenščine v 3. tisočletju – knjižna slovenščina med realnostjo in idealnostjo“. Slavistična revija 58 (1): 105–16. http://www.dlib.si/details/URN:NBN:SI:DOC-BHCJ5UO8.\n\n\nTivadar, Hotimir. 2019. „Opis samoglasnikov slovenskega knjižnega jezika z vidika spola govorečega“. Slavistična revija 67 (2): 233–42.\n\n\nToporišič, Jože. 1975. „Formanti slovenskega knjižnega jezika“. Slavistična revija 23 (2): 153–96.\n\n\nToporišič, Jože. 1992. Enciklopedija slovenskega jezika. Obzorja.\n\n\nToporišič, Jože. 2000. Slovenska slovnica. Obzorja.\n\n\nWatt, Dominic. 2013. „Research Methods in Speech Acoustics“. V The Bloomsbury Companion to Phonetics, uredil Mark J. Jones in Rachael-Anne Knight. Bloomsbury.\n\n\nWeckwerth, Jarosław. 2022. „Vowels“. V The Cambridge Handbook of Phonetics, uredil Rachael-Anne Knight in Jane Setter. Cambridge Handbooks in Language and Linguistics. Cambridge University Press.\n\n\nWrench, Alan, in Jane Beck. 2022. „Physiological Foundations“. V The Cambridge Handbook of Phonetics, uredil Rachael-Anne Knight in Jane Setter. Cambridge Handbooks in Language and Linguistics. Cambridge University Press.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Samoglasniki</span>"
+    ]
+  }
+]

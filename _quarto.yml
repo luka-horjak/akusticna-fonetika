@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Besedilna fonetika slovenskega knjižnega jezika"
+  author: "Luka Horjak"
+  date: "17.5.2026"
+  chapters:
+    - index.qmd
+    - samoglasniki.qmd
+    - references.qmd
+  
+lang: sl
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
