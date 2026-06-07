@@ -1,5 +1,5 @@
 .quarto/
 _site/
-/.quarto/
-**/*.quarto_ipynb
 _book/
+**/*.quarto_ipynb
+/.quarto/
