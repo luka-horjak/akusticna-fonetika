@@ -8,7 +8,7 @@ Tukaj predstavljena teorija *linear source-filter theory of speech production* j
 
 Samoglasniki so glasovi, ki nastanejo z vibriranjem glasilk (zvenečnost je izvor energije) in imajo relativno odprto govorno cev. Celotna govorna cev deluje kot resonančni/odzvočni prostor, tako da celotna govorna cev od glasilk navzgor deluje kot filter. Omenimo še, da pri nosnih glasovih pomembno vlogo igra **velofaringealna zapora**, ki se pri nosnih glasovih odpre, da se razširi rezonančni prostor še v nosno votlino. Pri nenosnih glasovih je velofaringealna zapora zaprta [@kent_acoustic_2002, str. 17-18], gl. sliko [-@fig-model1].
 
-![Prikaz izgovora nenosnih samoglasnikov (Nasal cav. = nosna votlina, oral cav. = ustna votlina, pharynx = žrelo/farinks, larynx = grlo, V = velofaringealna zapora) [@kent_acoustic_2002, str. 18]](slike/Model1_Kent_Read_2002_18.png){#fig-model1}
+![Prikaz izgovora nenosnih samoglasnikov (Nasal cav. = nosna votlina, oral cav. = ustna votlina, pharynx = žrelo/farinks, larynx = grlo, V = velofaringealna zapora) [@kent_acoustic_2002, str. 18]](../slike/Model1_Kent_Read_2002_18.png){#fig-model1}
 
 ## Osnovni model {#sec-osnovni-model}
 
@@ -40,13 +40,13 @@ V omenjeni teoriji (angl. linear source-filter theory of speech production) gre 
 
 Izvor energije so vibracije glasilk. Energijo lahko prikažemo kot linearni spektrum. Prva vrednost je vrednost osnovne frekvence (f~0~), naslednje pa so njen večkratnik. Dolžina črte prikazuje intenziteto/ energijo oz. glasnost (enota so decibeli (dB)). Če je osnovna frekvenca govorca npr. 120 Hz, bodo naslednje frekvence 240 Hz, 360 Hz, 480 Hz itd. Glasnost nima velikega vpliva na končne frekvence posameznega glasu, saj govor razumljiv, četudi govorimo nekoliko tišje oz. glasneje [@kent_acoustic_2002, str. 23].
 
-![Prikaz izgovora nenosnih samoglasnikov (AF = idealiziran prikaz govorne cevi, S = spekter,
-SG = spektrogram) [@kent_acoustic_2002, str. 21]](slike\Model2_Kent_Read_2002_21.png){#fig-model2}
+![Prikaz izgovora nenosnih samoglasnikov (AF = idealiziran prikaz govorne cevi, S = spekter, SG = spektrogram) [@kent_acoustic_2002, str. 21]](../slike/Model2_Kent_Read_2002_21.png){#fig-model2 width=60%}
 
-![Shematiziran prikaz delovanja filtra (govorne cevi) (U(s) = spektrum glasilk / grleni spektrum,
-T(s) = filter govorne cevi , R(s) = radiacijske značilnosti, P(s) = izhodni spektrum) [@kent_acoustic_2002, str. 22]](slike\Model3_Kent_Read_2002_22.png){#fig-model3}
+![Shematiziran prikaz delovanja filtra (govorne cevi) [povzeto po @kent_acoustic_2002, str. 22.]](../slike/Model3_Kent_Read_2002_22.png){#fig-model3 width=80%}
 
-![Prikaz laringealnega spektruma (vir: [https://matecmaticaacustica.weebly.com/filters-and-frequency-response.html](https://matecmaticaacustica.weebly.com/filters-and-frequency-response.html), 2. 2. 2026.)](slike\fig2.png){#fig-model4}
+*Opomba.* U(s) = spektrum glasilk (grleni spektrum), T(s) = filter govorne cevi, R(s) = radiacijske značilnosti, P(s) = izhodni spektrum.
+
+![Prikaz laringealnega spektruma (vir: [https://matecmaticaacustica.weebly.com/filters-and-frequency-response.html](https://matecmaticaacustica.weebly.com/filters-and-frequency-response.html), 2. 2. 2026.)](../slike/fig2.png){#fig-model4}
 
 ## Laringealni spektrum in radiacijska značilnost {#sec-Laringealni-spektrum}
 
@@ -75,14 +75,14 @@ F~1~. Drugi formant (F~2~) pa predstavlja položaj jezika glede na razmerje spre
 samoglasnikih se jezična ploskev približuje trdemu nebu, pri zadnjih samoglasnikih pa mehkemu nebu
 (samoglasnike lahko razdelimo na palatalne in velarne). F~2~ je najnižji pri zadnjih samoglasnikih
 (npr. /u/, /o/), najvišji pa pri sprednjih (npr. /i/, /e/) (prav tam: 125). Skladno z jezično ploskvijo se
-giba tudi spodnja čeljust. Osnovni ton (F~0~)[^1] predstavlja osnovno frekvenco melodije govora (angl.
+giba tudi spodnja čeljust. Osnovni ton (F~0~)[^1s] predstavlja osnovno frekvenco melodije govora (angl.
 pitch), imajo ga le glasovi s ponavljajočim nihanjem [@ladefoged_sounds_1996, str. 33]. Višji
 formanti (npr. F~5~, F~6~ idr.) za določanje fonetičnih lastnosti glasov niso ključni, saj odražajo predvsem
 individualno zgradbo govoril posameznika [@palkova_fonetika_1997, str. 106]. O težavah pri odčitavanju formantov pri digitalnem spektrografiranju piše @jurgec_natancnost_2004.
 
-[^1]: Osnovni ton je mdr. tudi indikator za zvenečnost.
+[^1s]: Osnovni ton je mdr. tudi indikator za zvenečnost.
 
-![Prikaz razporeditve energije po frekvenčnih območjih pri \[ə\]](slike\praat_spektrum1_schwa.png){#fig-schwa}
+![Prikaz razporeditve energije po frekvenčnih območjih pri \[ə\]](../slike\praat_spektrum1_schwa.png){#fig-schwa}
 
 Prvi formant ima najnižjo frekvenco, zato se na spektrogramu nahaja spodaj, sledi mu drugi formant
 itd. Najbolj razlikovalna sta F~1~ in F~2~.

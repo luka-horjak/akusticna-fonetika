@@ -2,25 +2,30 @@ project:
   type: book
 
 book:
-  title: "Besedilna fonetika slovenskega knjižnega jezika"
+  title: "Akustična fonetika -- vaje"
   author: "Luka Horjak"
-  date: "17.5.2026"
+  date: "7 June 2026"
   chapters:
     - index.qmd
-    - samoglasniki.qmd
+    - poglavja\kratka-navodila-za-praat.qmd
+    - poglavja\samoglasniki.qmd
+    - poglavja\osnovna-frekvenca.qmd
+    - poglavja\tonemski-naglas.qmd
+    - poglavja\soglasniki.qmd
+    - poglavja\hitrost-govora.qmd
     - references.qmd
-  
+   
+bibliography: references.bib
+csl: apa.csl
+
 lang: sl
 
-bibliography: references.bib
 
 format:
   html:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
 
-
+toc-depth: 6
 

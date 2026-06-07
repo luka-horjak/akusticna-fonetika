@@ -1,0 +1,11 @@
+Ukazi za objavo na githubu.
+
+https://luka-horjak.github.io/besedilna-fonetika-vaje/
+
+From now on, whenever you update your book:
+(tole spodaj vpiši v terminal, vsako vrstico posebej!)
+quarto render
+cd _site
+git add .
+git commit -m "Update"
+git push -f origin gh-pages

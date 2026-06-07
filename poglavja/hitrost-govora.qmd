@@ -1,0 +1,32 @@
+# Hitrost govora (HG) in hitrost artikulacije (HA): Na primeru govorne interpretacije 
+
+Za[^1i] merjenje hitrosti izgovora sta v fonetiki najpogostejša parametra **hitrost govora** (HG) (angl. speech rate), tj. število zlogov na sekundo glede na celoten čas govora, vključno s premori, in **hitrost artikulacije** (izgovora) (HA) (angl. articulation rate), tj. število zlogov na sekundo glede na čas govora brez premorov [@horga_artikulacijska_2016, str. 47, @fletcher_prosody_2013, str. 570, @horga_neki_2000, str. 110].
+
+[^1i]: Iz prispevka @horjak_med_2021.
+
+| Mera | Črna ruta | Pred portretom | Beg |
+|------|----------:|---------------:|----:|
+| Celoten čas interpretacije (s) | 35,961 (100 %) | 78,452 (100 %) | 54,157 (100 %) |
+| Trajanje govora (s) | 23,136 (64 %) | 52,341 (67 %) | 23,091 (43 %) |
+| Trajanje premorov (s) | 12,825 (36 %) | 26,111 (33 %) | 31,066 (57 %) |
+| Št. zlogov | 98 | 208 | 94 |
+| HG (zlog/s) | 2,725 | 2,651 | 1,735 |
+| HA (zlog/s) | 4,236 | 3,974 | 4,070 |
+
+: Podatki za hitrost govora (HG) in hitrost artikulacije (HA) pri govornih interpretacijah {#tbl-hitrost-govora}
+
+Večina raziskav hitrosti govora in hitrosti artikulacije analizira medijski diskurz [@horga_neki_2000; @tivadar_speech_2017], zato so podatki z umetniškim govorom neprimerljivi. Drugačno je tudi razmerje med trajanjem govora in trajanjem premorov. @horga_neki_2000 [str. 122] navajata, da v spontanem govoru 81,19 % časa zaseda govorni del, pri voditeljih in voditeljicah dnevnika na HTV pa povprečno 91,9 % časa. Pri analiziranih izbranih govornih interpretacijah Mile Kačič pa je razmerje med trajanjem govora in trajanjem premorov drugačno, saj govor lahko zaseda le 43 % (Beg) časa govorne interpretacije ali pa 64 % (Črna ruta) oz. 67 % (Pred portretom) časa. Premor je stilistično sredstvo, ki neumetniški govor ločuje od umetniške interpretacije. Primerjave z neumetniškim govorom zato niso najboljše, bolj smiselne so primerjave med samimi govornimi interpretacijami, kjer lahko ugotavljamo vzroke, zakaj je interpretka pri interpretaciji pesmi Beg naredila daljše premore ali več premorov kot pri drugih dveh analiziranih interpretacijah. Pri slednji govorni interpretaciji so premori daljši zaradi same zgradbe lirskega besedila: namreč dvema verzoma, od katerih je drugi vprašanje, sledi odgovor. Za vprašanjem in za odgovorom, tj. pred novim verzom, je premor dolg 1,858–2,729 s, premor med prvim in drugim verzom vsake kitice pa 1,111–1,554 s. 
+
+Oglejmo si premore na primeru prvih dveh kitic, dolžina premora je zapisana za vsakim verzov v oglatem oklepaju v sekundah. 
+
+> Na traku mesečine se zibljem. [1,554] \
+> Kaj je, kar me drami? [2,278] \
+> Tvoj vzdih. [2,372] \
+> \
+> Že davno sem na cesti ponižanih. [1,231] \
+> Kaj je, kar me kliče? [2,729] \
+> Tvoj jok. [2,239] [Beg, @kacic_okus_1987, str. 64.]
+
+Izstopajoč je premor sredi zadnjega verza pesmi, kjer za vzklikom sledi zadnji odgovor: »Joj! … [2,316] Smrt.« [Beg, @kacic_okus_1987, str. 64].
+
+Za slovenščino je hitrost medijskega govora in političnega govora meril @tivadar_speech_2017 [str. 53], HG in HA branega govora napovedovalcev je izmeril med 5,5–7 zloga/s, pri nebranem govoru HG znaša 4,4–5,6 zloga/s, HA pa 5,7–7,7 zloga/s. Primerjava z govornimi interpretacijami Mile Kačič jasno pokaže, da je interpretativni govor počasnejši, za analizirane interpretacije znaša HG 1,735–2,725 zloga/s, HA pa 3,974–4,236, pri čemer višja vrednost HG ne korelira nujno z višjo vrednostjo HA, saj je HG odvisna od dolžine premorov, HA pa ne, kar se kaže pri interpretaciji pesmi Beg.
